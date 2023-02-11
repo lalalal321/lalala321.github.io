@@ -17,7 +17,8 @@
       <pubDate>Mon, 06 Feb 2023 12:56:57 +0800</pubDate>
       
       <guid>https://lalalal321.github.io/posts/spring-boot-tutorials/</guid>
-      <description>What is Dependency Injection? loose coupling (tight coupling) is means one object is not totally depend upon another object. Spring container/IoC container can Creating objects and then injecting them to your class. In spring, Ioc container is responsible to inject the dependencies, we provide meta-data to it by XML or annotation.
+      <description>What is Dependency Injection? loose coupling (tight coupling) is means one object is not totally depend upon another object.
+Spring container/IoC container can Creating objects and then injecting them to your class. In spring, Ioc container is responsible to inject the dependencies, we provide meta-data to it by XML or annotation.
 For example, they are getting connected:
 class Laptop{ @Autowired HardDrive obj1; } @Component class HitachHD implements HardDrive{ ...... } you just need to implement dependency injection so that you can test and maintain better.</description>
     </item>
