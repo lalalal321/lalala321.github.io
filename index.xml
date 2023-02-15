@@ -10,7 +10,19 @@
       <link>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Feb 2023 12:56:57 +0800</lastBuildDate><atom:link href="https://lalalal321.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Feb 2023 21:51:55 +0800</lastBuildDate><atom:link href="https://lalalal321.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nodejs l10n</title>
+      <link>https://lalalal321.github.io/posts/node-l10n/</link>
+      <pubDate>Wed, 15 Feb 2023 21:51:55 +0800</pubDate>
+      
+      <guid>https://lalalal321.github.io/posts/node-l10n/</guid>
+      <description>Recently, our team started to do localization(l10n). The package we are using in the front end is &amp;lsquo;i18next&amp;rsquo;, an internationalization-framework written in and for JavaScript. I decided to use it in the backend because of its applicability.
+Quick start of i18next 1.Load the language resource from git submodule
+&amp;ldquo;cover&amp;rdquo; and &amp;ldquo;page&amp;rdquo; represent objects load from json files in submodule.
+// English resources const en = { cover, page, }; 2.Init i18next</description>
+    </item>
+    
     <item>
       <title>Spring Framework Tutorials(1)</title>
       <link>https://lalalal321.github.io/posts/spring-boot-tutorials/</link>
