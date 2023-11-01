@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>每日一题 on Fan&#39;s Home</title>
+    <link>https://lalalal321.github.io/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/</link>
+    <description>Recent content in 每日一题 on Fan&#39;s Home</description>
+    <image>
+      <title>Fan&#39;s Home</title>
+      <url>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Nov 2023 23:27:24 +0800</lastBuildDate><atom:link href="https://lalalal321.github.io/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic data structures - Array</title>
+      <link>https://lalalal321.github.io/posts/leetcode-array/</link>
+      <pubDate>Wed, 01 Nov 2023 23:27:24 +0800</pubDate>
+      
+      <guid>https://lalalal321.github.io/posts/leetcode-array/</guid>
+      <description>189. Rotate Array class Solution: def rotate(self, nums: List[int], k: int) -&amp;gt; None: &amp;#34;&amp;#34;&amp;#34; Do not return anything, modify nums in-place instead. &amp;#34;&amp;#34;&amp;#34; k %= len(nums) nums[:] = nums[::-1] nums[:k] = nums[:k][::-1] nums[k:] = nums[k:][::-1] The simplest way is rotate nums three times. Python support rotate directly, but Java do not have corresponding function.</description>
+    </item>
+    
+  </channel>
+</rss>
