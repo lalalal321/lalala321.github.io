@@ -23,5 +23,12 @@ Quick start of i18next 1.Load the language resource from git submodule
 &amp;ldquo;cover&amp;rdquo; and &amp;ldquo;page&amp;rdquo; represent objects load from json files in submodule.
 // English resources const en = { cover, page, }; 2.Init i18next</description>
     </item>
+    <item>
+      <title>Quickstart of Reactor</title>
+      <link>https://lalalal321.github.io/posts/quickstart-react/</link>
+      <pubDate>Sun, 12 Feb 2023 20:12:45 +0800</pubDate>
+      <guid>https://lalalal321.github.io/posts/quickstart-react/</guid>
+      <description>###　What is the reactor? reactor-core</description>
+    </item>
   </channel>
 </rss>
