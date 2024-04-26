@@ -9,34 +9,30 @@
       <url>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 23:27:24 +0800</lastBuildDate><atom:link href="https://lalalal321.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 23:27:24 +0800</lastBuildDate>
+    <atom:link href="https://lalalal321.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>每日一题</title>
       <link>https://lalalal321.github.io/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/</link>
-      <pubDate>Wed, 01 Nov 2023 23:27:24 +0800</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lalalal321.github.io/categories/%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>工作小记</title>
       <link>https://lalalal321.github.io/categories/%E5%B7%A5%E4%BD%9C%E5%B0%8F%E8%AE%B0/</link>
-      <pubDate>Wed, 15 Feb 2023 21:51:55 +0800</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lalalal321.github.io/categories/%E5%B7%A5%E4%BD%9C%E5%B0%8F%E8%AE%B0/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>温故知新</title>
       <link>https://lalalal321.github.io/categories/%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0/</link>
-      <pubDate>Mon, 06 Feb 2023 12:56:57 +0800</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lalalal321.github.io/categories/%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

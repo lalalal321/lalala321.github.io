@@ -9,16 +9,16 @@
       <url>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 23:27:24 +0800</lastBuildDate><atom:link href="https://lalalal321.github.io/tags/leetcode/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 23:27:24 +0800</lastBuildDate>
+    <atom:link href="https://lalalal321.github.io/tags/leetcode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic data structures - Array</title>
       <link>https://lalalal321.github.io/posts/leetcode-array/</link>
       <pubDate>Wed, 01 Nov 2023 23:27:24 +0800</pubDate>
-      
       <guid>https://lalalal321.github.io/posts/leetcode-array/</guid>
       <description>189. Rotate Array class Solution: def rotate(self, nums: List[int], k: int) -&amp;gt; None: &amp;#34;&amp;#34;&amp;#34; Do not return anything, modify nums in-place instead. &amp;#34;&amp;#34;&amp;#34; k %= len(nums) nums[:] = nums[::-1] nums[:k] = nums[:k][::-1] nums[k:] = nums[k:][::-1] The simplest way is rotate nums three times. Python support rotate directly, but Java do not have corresponding function.</description>
     </item>
-    
   </channel>
 </rss>

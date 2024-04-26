@@ -9,19 +9,19 @@
       <url>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Feb 2023 12:56:57 +0800</lastBuildDate><atom:link href="https://lalalal321.github.io/categories/%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Feb 2023 12:56:57 +0800</lastBuildDate>
+    <atom:link href="https://lalalal321.github.io/categories/%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring Framework Tutorials(1)</title>
       <link>https://lalalal321.github.io/posts/spring-boot-tutorials/</link>
       <pubDate>Mon, 06 Feb 2023 12:56:57 +0800</pubDate>
-      
       <guid>https://lalalal321.github.io/posts/spring-boot-tutorials/</guid>
       <description>What is Dependency Injection? loose coupling (tight coupling) is means one object is not totally depend upon another object.
 Spring container/IoC container can Creating objects and then injecting them to your class. In spring, Ioc container is responsible to inject the dependencies, we provide meta-data to it by XML or annotation.
 For example, they are getting connected:
 class Laptop{ @Autowired HardDrive obj1; } @Component class HitachHD implements HardDrive{ ...... } you just need to implement dependency injection so that you can test and maintain better.</description>
     </item>
-    
   </channel>
 </rss>

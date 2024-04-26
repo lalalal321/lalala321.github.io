@@ -9,40 +9,36 @@
       <url>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://lalalal321.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 23:27:24 +0800</lastBuildDate><atom:link href="https://lalalal321.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.112.4</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 23:27:24 +0800</lastBuildDate>
+    <atom:link href="https://lalalal321.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic data structures - Array</title>
       <link>https://lalalal321.github.io/posts/leetcode-array/</link>
       <pubDate>Wed, 01 Nov 2023 23:27:24 +0800</pubDate>
-      
       <guid>https://lalalal321.github.io/posts/leetcode-array/</guid>
       <description>189. Rotate Array class Solution: def rotate(self, nums: List[int], k: int) -&amp;gt; None: &amp;#34;&amp;#34;&amp;#34; Do not return anything, modify nums in-place instead. &amp;#34;&amp;#34;&amp;#34; k %= len(nums) nums[:] = nums[::-1] nums[:k] = nums[:k][::-1] nums[k:] = nums[k:][::-1] The simplest way is rotate nums three times. Python support rotate directly, but Java do not have corresponding function.</description>
     </item>
-    
     <item>
       <title>Nodejs l10n</title>
       <link>https://lalalal321.github.io/posts/node-l10n/</link>
       <pubDate>Wed, 15 Feb 2023 21:51:55 +0800</pubDate>
-      
       <guid>https://lalalal321.github.io/posts/node-l10n/</guid>
       <description>Recently, our team started to do localization(l10n). The package we are using in the front end is &amp;lsquo;i18next&amp;rsquo;, an internationalization-framework written in and for JavaScript. I decided to use it in the backend because of its applicability.
 Quick start of i18next 1.Load the language resource from git submodule
 &amp;ldquo;cover&amp;rdquo; and &amp;ldquo;page&amp;rdquo; represent objects load from json files in submodule.
 // English resources const en = { cover, page, }; 2.Init i18next</description>
     </item>
-    
     <item>
       <title>Spring Framework Tutorials(1)</title>
       <link>https://lalalal321.github.io/posts/spring-boot-tutorials/</link>
       <pubDate>Mon, 06 Feb 2023 12:56:57 +0800</pubDate>
-      
       <guid>https://lalalal321.github.io/posts/spring-boot-tutorials/</guid>
       <description>What is Dependency Injection? loose coupling (tight coupling) is means one object is not totally depend upon another object.
 Spring container/IoC container can Creating objects and then injecting them to your class. In spring, Ioc container is responsible to inject the dependencies, we provide meta-data to it by XML or annotation.
 For example, they are getting connected:
 class Laptop{ @Autowired HardDrive obj1; } @Component class HitachHD implements HardDrive{ ...... } you just need to implement dependency injection so that you can test and maintain better.</description>
     </item>
-    
   </channel>
 </rss>
